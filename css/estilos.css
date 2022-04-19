@@ -1,3 +1,9 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
 span {
   color: red;    
 }
@@ -12,13 +18,13 @@ span {
 }
 
 .backImg {
-  background-image: url("../img/ingenieria/ing6.jpg");
+  background-image: url("../img/ingenieria/ing12.jpg");
   background-size: cover; 
 }
 
 .backImg2 {
   background-image: url("../img/ingenieria/ing20.jpg");
-  background-size: cover; 
+  background-size: contain;  
 }
 
 .backN {
