@@ -1,0 +1,62 @@
+span {
+  color: red;    
+}
+
+.menu li a{   
+  margin-right: 20px;    
+}
+
+.menu li a:hover{
+  border-radius: 10px;    
+  border: 1px solid red;
+}
+
+.backImg {
+  background-image: url("../img/ingenieria/ing6.jpg");
+  background-size: cover; 
+}
+
+.backImg2 {
+  background-image: url("../img/ingenieria/ing20.jpg");
+  background-size: cover; 
+}
+
+.backN {
+  background-color: silver;
+}
+  
+.logo_redes {
+  width: 40px;
+  margin: 14px;
+  padding: 6px;
+  border-radius: 14px; 
+  background-color:white;
+  /* border: 2px solid red;   */
+}
+
+.logo_redes:hover{  
+  background-color: white;
+  border: 2px solid red; 
+}
+
+
+.whatsapp {
+  position: fixed;
+  bottom: 40px;
+  right: 40px;
+  width: 40px;
+  height: 40px;
+  z-index: 2; 
+}
+
+.carrutext{
+  background-color:rgba(0, 0, 0, 0.664);
+  border-radius: 100px; 
+}
+
+.carrutext:hover{  
+  border: 2px solid red; 
+}
+
+
+
